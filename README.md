@@ -1,7 +1,9 @@
 Executive Author
 CK Rao — Executive Leader in Enterprise AI Architecture, Data Strategy, and Cyber Resilience.
-LinkedIn: CK Rao Profile
-Thought Leadership: AI to Super Intelligence (SI) Framework
+LinkedIn: CK Rao Profile: https://www.linkedin.com/in/itckrao/
+
+Thought Leadership: AI to Super Intelligence (SI) Framework: https://lnkd.in/p/eKayJjSv
+
 
 1. Create a simple navbar component and put it in the main page
 2. Add the "Userform" component into the main app
